@@ -1,0 +1,35 @@
+# Chest X-ray Pneumonia Classification - Requirements
+# Python 3.8+
+
+# Deep Learning Framework
+tensorflow>=2.13.0
+keras>=2.13.0
+
+# Data Processing and Numerical Computing
+numpy>=1.23.0
+pandas>=1.5.0
+scikit-learn>=1.2.0
+Pillow>=9.5.0
+
+# Computer Vision
+opencv-python>=4.7.0
+opencv-contrib-python>=4.7.0
+
+# Visualization and Plotting
+matplotlib>=3.7.0
+seaborn>=0.12.0
+
+# Optional GPU Support (uncomment if using GPU)
+# tensorflow[and-cuda]>=2.13.0
+# cuda-toolkit>=11.8
+# cudnn>=8.6.0
+
+# Development Tools (optional)
+jupyter>=1.0.0
+ipython>=8.12.0
+ipykernel>=6.22.0
+
+# Code Quality (optional)
+pylint>=2.17.0
+black>=23.3.0
+flake8>=6.0.0
