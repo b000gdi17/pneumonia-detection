@@ -163,7 +163,7 @@ Scriptul include vizualizari pentru:
   - *Class weights* in antrenament  
   - Metrici multiple pentru evaluare  
 
-- **Precizie ridicata, Recall mai scazut pentru clasa NORMAL**:  
+- **Precizie ridicata, Recall mai scazut pentru clasa NORMAL** :  
   Modelul este mai conservator in detectarea pneumoniei.  
   Este mai sigur sa marcheze o radiografie ca NORMAL doar daca este foarte sigur, pentru a evita alarmele false.  
   Acesta este un comportament dezirabil din perspectiva medicala.  
